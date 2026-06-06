@@ -7,6 +7,7 @@
 - **Conditional Edges** - If/else type routing jo decide kare kaunsa node aage jayega
 - **Short Term Memory** - Conversation history maintain karna
 - **Long Term Memory** - ChromaDB persistent storage se sessions ke beech memory
+- **FastAPI** - Agent ko web API mein wrap kiya — browser se access karo
   
 
 ## Tech Stack
