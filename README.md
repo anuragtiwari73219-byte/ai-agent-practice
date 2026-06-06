@@ -11,7 +11,7 @@
   
 
 ## Tech Stack
-- Python, Groq API, LangGraph, ChromaDB, Sentence Transformers
+- Python, Groq API, LangGraph, ChromaDB, Sentence Transformers, FastAPI, Uvicorn
 
 ## Learning
 6 month journey to become an Agentic AI Engineer - 
